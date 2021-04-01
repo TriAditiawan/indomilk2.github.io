@@ -3,6 +3,9 @@
   background-color: #bae5f2;
 }
 #hubungikami {
+  background-image: url(./img/bg_body.png);
+}
+#hubungikami {
   min-height: 600px;
 }
 .navbar-toggler {
